@@ -1,0 +1,18 @@
+#case_img{
+    width: 300px;
+    height: 200px;
+ 
+}
+.book_img{
+height: 400px;
+width: 400px;
+}
+.mouse_img{
+    height: 400px;
+    width: 400px;
+}
+
+
+body{
+    background-color: palevioletred;
+}
